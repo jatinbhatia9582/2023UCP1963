@@ -1,3 +1,5 @@
+print("enter the vector1")
+print("enter the vector2")
 x1=int(input("enter x1"))
 x2=int(input("enter x2")) 
 x3=int(input("enter x3"))
@@ -6,3 +8,4 @@ y2=int(input("enter y2"))
 y3=int(input("enter y3"))
 print("result after dot product")
 print(x1*y1+x2*y2+x3*y3)
+
